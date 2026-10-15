@@ -26,7 +26,6 @@
             <li><a href="https://github.com/Zhann-th/Vision"><strong>Vision</strong></a> — Multimodal AI Studio & Text Classification Pipeline.</li>
             <li><a href="https://github.com/Zhann-th/CV_particle_control"><strong>Nex</strong></a> — Real-time 3D hand tracking & particle physics with MediaPipe + WebGL.</li>
             <li><a href="https://github.com/Zhann-th/Zest"><strong>Zest</strong></a> — Instant AI-powered presentation generation pipeline.</li>
-            <li><a href="https://github.com/Zhann-th/Soyle"><strong>Soyle</strong></a> — Kazakh language conversational speech model.</li>
           </ul>
         </li>
         <li>📫 <strong>Get in touch:</strong> Open for research, security audits, and AI engineering collaborations.</li>
